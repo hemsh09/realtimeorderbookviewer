@@ -23,7 +23,7 @@ A Next.js application that displays real-time orderbook data with order simulati
 1. Clone the repository:
 ```bash
 git clone https://github.com/hemsh09/realtimeorderbookviewer.git
-cd orderbook-viewer/app
+cd realtimeorderbookviewer
 ```
 
 2. Install dependencies:
